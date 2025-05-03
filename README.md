@@ -5,6 +5,14 @@
 🤖 AI/ML Enthusiast | Passionate about building real-world solutions  
 💡 Problem Solver | Exploring DSA, and full-stack development  
 
+### Languages & Technologies:
+- 🐍 Python | 💻 C | ⚙️ C++  
+- 🌐 Web Development: HTML, CSS  
+- 🗄️ Database: PgAdmin  
+
+### Tools & Environment:
+- 💻 VS Code | 🧑‍💻 Jupyter Notebook  
+- 🖥️ Linux (Working in a Linux environment)
 
 
 <!--

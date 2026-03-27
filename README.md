@@ -2,12 +2,12 @@
 
 🎓 First-year B.Tech student at IIIT Kalyani  
 📘 Also pursuing BS in Data Science from IIT Madras  
-🤖 AI/ML Enthusiast | Passionate about building real-world solutions  
 💡 Problem Solver | Exploring DSA, and Development
 
 ### Languages & Technologies:
-- 🐍 Python | 💻 C | ⚙️ C++  
-- 🌐 Web Development: HTML, CSS  
+- 🐍 Python | 💻 C | ⚙️ C++  | Java
+- 🌐 Web Development: HTML, CSS, Java Script
+- AI/ML: PyTorch, TensorFlow, Keras, Scikit-learn, Transfer Learning
 - 🗄️ Database: PgAdmin  
 
 ### Tools & Environment:
